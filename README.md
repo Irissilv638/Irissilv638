@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=120&section=head"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8b0000&height=120&section=head"/>
 
-<h1 align="center"> Olá! Me chamo Íris Silva e seja bem-vindo(a)</h1>
+<h1 align="center"> Olá! Me chamo Íris Conceição e seja bem-vindo(a)</h1>
 
 <h4 align="center">
  Estudante de Ciência da Computação (3º semestre) <br>
@@ -9,15 +9,12 @@
 
 ---
 
-##  Sobre mim:
+## 👩‍💻 Sobre mim:
 
-Apaixonada pela dança, música, ciências socias, animes e tecnologia <br>
-Interessada em desenvolvimento de software e segurança da informação (cybersegurança) <br>
-Estou sempre em busca de conhecimentos sobre novas linguagens, ferramentas e áreas da TI <br>
-Possuo curso profissionalizante em <b> design gráfico e edição de vídeos e imagens </b> (Escola SAGA)
-
----
-
+• Apaixonada pela dança, música, ciências socias, animes e tecnologia <br>
+• Interessada em desenvolvimento de software e segurança da informação (cybersegurança) <br>
+• Estou sempre em busca de conhecimentos sobre novas linguagens, ferramentas e áreas da TI <br>
+• Possuo curso profissionalizante em <b> design gráfico e edição de vídeos e imagens </b> (Escola SAGA)
 
 ---
 
@@ -56,3 +53,4 @@ Possuo curso profissionalizante em <b> design gráfico e edição de vídeos e i
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8b0000&height=120&section=footer"/>

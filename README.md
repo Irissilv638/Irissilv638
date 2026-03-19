@@ -11,7 +11,7 @@
 
 ## 👩‍💻 Sobre mim:
 
-• Apaixonada pela dança, música, ciências socias, animes e tecnologia <br>
+• Apaixonada pela dança, música, ciências socias, anime e tecnologia <br>
 • Interessada em desenvolvimento de software e segurança da informação (cybersegurança) <br>
 • Estou sempre em busca de conhecimentos sobre novas linguagens, ferramentas e áreas da TI <br>
 • Possuo curso profissionalizante em <b> design gráfico e edição de vídeos e imagens </b> (Escola SAGA)

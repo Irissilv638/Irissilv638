@@ -2,10 +2,10 @@
 
 <h1 align="center"> Olá! Me chamo Íris Conceição e seja bem-vindo(a)</h1>
 
-<h4 align="center">
+<h3 align="center">
  Estudante de Ciência da Computação (3º semestre) <br>
  Transformando conhecimento em soluções e construindo um futuro na área de tecnologia <br>
-</h4>
+</h3>
 
 ---
 
